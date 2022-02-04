@@ -16,7 +16,7 @@ Graph Algorithm , BFS
 
 I really don't know why problems say that m * n array not m * n array...
 
-It is really wasting my time ㅡㅡ.
+It is really wasting my time ㅡㅡ. I think I should spend more time to read the problem statement.
 
 Save location of W and B in different vector.
 
